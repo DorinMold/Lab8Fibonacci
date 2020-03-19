@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema Lab 8 Fibonacci", "Tema Lab 8 Fibonacci\Tema Lab 8 Fibonacci.csproj", "{101EEF6B-6880-4EE7-9E1E-8A5D545FD9F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101EEF6B-6880-4EE7-9E1E-8A5D545FD9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101EEF6B-6880-4EE7-9E1E-8A5D545FD9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101EEF6B-6880-4EE7-9E1E-8A5D545FD9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101EEF6B-6880-4EE7-9E1E-8A5D545FD9F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267C4A01-266F-4BB3-AFC6-57BB81FC3A3B}
+	EndGlobalSection
+EndGlobal
